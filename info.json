@@ -1,0 +1,7 @@
+{
+  "name": "ComfyUI Smart Resolution Toolkit",
+  "description": "Smart resolution and latent generator nodes (aspect-aware, snap64-safe)",
+  "author": "buddy-bytes",
+  "version": "1.0.0",
+  "url": "https://github.com/buddy-bytes/ComfyUI-SmartResolutionToolkit"
+}
